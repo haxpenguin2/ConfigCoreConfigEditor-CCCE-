@@ -1,2 +1,2 @@
 # ConfigCoreConfigEditor-CCCE-
-A simple linux app with PyQT&amp;6 that you can use to install compatibility modules to edit compatible text-based config files. current support inclued Vim, I3, Picom, Bashrc, NetworkManager(nmcli) and MPV. 
+A simple linux app with PyQT5&6 that you can use to install compatibility modules to edit compatible text-based config files. WARNING: Some config editors may break config files and make sure to use the app with caution and make backups. Hopefully, compatibillity with other apps will be made by the community. Current support inclued Vim, I3, Picom, Bashrc, NetworkManager(nmcli) and MPV. 
